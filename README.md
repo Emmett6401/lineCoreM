@@ -13,4 +13,9 @@
 ![image](https://github.com/user-attachments/assets/a5406a48-9bcd-4690-bfa2-f34c8dd7c0b1)
 
 
+## 안드로이드용 apk 파일 
+![image](https://github.com/user-attachments/assets/4f609946-9204-4b66-9e14-a8973b8d3b18)
+
+![image](https://github.com/user-attachments/assets/5e944ba1-2090-4a41-92d9-754a5c38a8b4)
+
 
